@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="no_news">No news found for you. Try again later or change preferences.</string>
+    <string name="no_internet_connection">No internet connection. </string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <string name="settings_max_results_label">Maximum number of results</string>
+    <string name="settings_max_results_key" translatable="false">max_results</string>
+    <string name="settings_max_results_default" translatable="false">1</string>
+
+
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">newest</string>
+
+    <!-- Label for order-by newest option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <!-- Label for order-by oldest option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <!-- Label for order-by most relevance option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+
+
+    <!-- Strings For section names Preference [CHAR LIMIT=30] -->
+    <string name="settings_section_name_label">Section name</string>
+    <string name="settings_section_name_key" translatable="false">section_name</string>
+    <string name="settings_section_name_default" translatable="false">technology</string>
+
+    <!-- Label for order-by newest option [CHAR LIMIT=20] -->
+    <string name="settings_section_name_technology_label">Technology</string>
+    <string name="settings_section_name_technology_value" translatable="false">technology</string>
+
+    <!-- Label for order-by oldest option [CHAR LIMIT=20] -->
+    <string name="settings_section_name_society_label">Society</string>
+    <string name="settings_section_name_society_value" translatable="false">society</string>
+
+    <!-- Label for order-by most relevance option [CHAR LIMIT=20] -->
+    <string name="settings_section_name_football_label">Football</string>
+    <string name="settings_section_name_football_value" translatable="false">football</string>
+
+    <!-- Label for order-by most relevance option [CHAR LIMIT=20] -->
+    <string name="settings_section_name_environment_label">Environment</string>
+    <string name="settings_section_name_environment_value" translatable="false">environment</string>
+
+
+</resources>

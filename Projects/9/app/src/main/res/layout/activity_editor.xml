@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/activity_margin"
+    tools:context=".EditorActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:text="@string/category_product_name"
+            style="@style/CategoryStyle" />
+
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:paddingLeft="4dp"
+            android:orientation="vertical"
+            android:paddingStart="4dp"
+            tools:ignore="RtlSymmetry">
+
+            <EditText
+                android:id="@+id/edit_product_name"
+                android:hint="@string/hint_inventory_name"
+                android:inputType="textCapWords"
+                style="@style/EditorFieldStyle" />
+
+            <EditText
+                android:id="@+id/edit_price"
+                android:hint="@string/hint_inventory_price"
+                android:inputType="textCapWords"
+                style="@style/EditorFieldStyle" />
+
+            <ImageView
+                android:id="@+id/quantity_up"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_margin="8dp"
+                android:src="@drawable/ic_up"
+                android:contentDescription="@string/up" />
+
+            <EditText
+                android:id="@+id/edit_quantity"
+                android:hint="@string/hint_inventory_quantity"
+                android:inputType="textCapWords"
+                style="@style/EditorFieldStyle" />
+
+            <ImageView
+                android:id="@+id/quantity_down"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_margin="8dp"
+                android:src="@drawable/ic_down"
+                android:contentDescription="@string/down" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:text="@string/category_supplier"
+            style="@style/CategoryStyle" />
+
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:paddingLeft="4dp"
+            android:orientation="vertical"
+            android:paddingStart="4dp">
+
+            <EditText
+                android:id="@+id/edit_supplier_name"
+                android:hint="@string/hint_inventory_supplier_name"
+                android:inputType="textCapWords"
+                style="@style/EditorFieldStyle" />
+
+            <EditText
+                android:id="@+id/edit_supplier_telephone_number"
+                android:hint="@string/hint_inventory_supplier_telephone_number"
+                android:inputType="phone"
+                style="@style/EditorFieldStyle"
+                tools:ignore="TextFields" />
+
+            <ImageView
+                android:src="@drawable/ic_call_to_supplier"
+                android:id="@+id/call_to_supplier"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:contentDescription="@string/call_to_supplier" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

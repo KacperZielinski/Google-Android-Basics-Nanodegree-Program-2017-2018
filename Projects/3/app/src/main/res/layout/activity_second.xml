@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.zielinski.kacper.carquiz.SecondActivity"
+    tools:text="placeholder text">
+
+    <TextView
+        style="@style/QuestionTextViewStyle"
+        android:id="@+id/question_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="question"   />
+
+    <ImageView
+        style="@style/ImageViewRelativeStyle"
+        android:id="@+id/image"/>
+
+    <RadioGroup
+        android:id="@+id/radio_group"
+        android:layout_margin="24dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/ok_button"
+        android:orientation="vertical"
+        android:checkedButton="@id/radio_answer1" >
+
+        <RadioButton
+            style="@style/RadioButtonStyle"
+            android:id="@+id/radio_answer1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="answer1" />
+
+        <RadioButton
+            style="@style/RadioButtonStyle"
+            android:id="@+id/radio_answer2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="answer2" />
+
+        <RadioButton
+            style="@style/RadioButtonStyle"
+            android:id="@+id/radio_answer3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="answer3" />
+
+        <RadioButton
+            style="@style/RadioButtonStyle"
+            android:id="@+id/radio_answer4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="answer4" />
+
+    </RadioGroup>
+
+    <LinearLayout
+        android:id="@+id/checkbox_group"
+        android:orientation="vertical"
+        android:layout_margin="24dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/radio_group" >
+
+        <CheckBox
+            style="@style/CheckBoxStyle"
+            android:id="@+id/checkbox_answer1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="answer1" />
+
+        <CheckBox
+            style="@style/CheckBoxStyle"
+            android:id="@+id/checkbox_answer2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="answer2" />
+
+        <CheckBox
+            style="@style/CheckBoxStyle"
+            android:id="@+id/checkbox_answer3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="answer3" />
+
+        <CheckBox
+            style="@style/CheckBoxStyle"
+            android:id="@+id/checkbox_answer4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="answer4" />
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/edit_text"
+        android:layout_above="@id/ok_button"
+        android:layout_margin="16dp"
+        android:layout_marginBottom="64dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/ok_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginLeft="4dp"
+        android:padding="16dp"
+        android:textAllCaps="true"
+        android:text="@android:string/ok" />
+
+</RelativeLayout>

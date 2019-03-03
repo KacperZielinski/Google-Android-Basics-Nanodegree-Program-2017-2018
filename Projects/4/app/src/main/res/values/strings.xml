@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusicalStructure</string>
+    <string name="song_icon_description">songIcon</string>
+    <string name="songs">Songs</string>
+    <string name="playlists">Playlists</string>
+    <string name="now_playing">Now playing</string>
+    <string name="library">Library</string>
+    <string name="album_art">Album Art</string>
+    <string name="forward_str">forward</string>
+    <string name="backward_str">backward</string>
+</resources>

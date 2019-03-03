@@ -1,0 +1,13 @@
+<GridView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/monuments_listview"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:numColumns="2"
+    android:adjustViewBounds="true"
+    android:verticalSpacing="0dp"
+    android:horizontalSpacing="0dp"
+    android:stretchMode="columnWidth"
+    tools:context="com.zielinski.kacper.tourguideapp.MonumentsFragment"   />

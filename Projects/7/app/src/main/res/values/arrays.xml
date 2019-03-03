@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_newest_label</item>
+        <item>@string/settings_order_by_oldest_label</item>
+        <item>@string/settings_order_by_relevance_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_newest_value</item>
+        <item>@string/settings_order_by_oldest_value</item>
+        <item>@string/settings_order_by_relevance_value</item>
+    </string-array>
+
+
+
+    <string-array name="settings_section_name_labels">
+        <item>@string/settings_section_name_technology_label</item>
+        <item>@string/settings_section_name_society_label</item>
+        <item>@string/settings_section_name_football_label</item>
+        <item>@string/settings_section_name_environment_label</item>
+    </string-array>
+
+    <string-array name="settings_section_name_values">
+        <item>@string/settings_section_name_technology_value</item>
+        <item>@string/settings_section_name_society_value</item>
+        <item>@string/settings_section_name_football_value</item>
+        <item>@string/settings_section_name_environment_value</item>
+    </string-array>
+</resources>

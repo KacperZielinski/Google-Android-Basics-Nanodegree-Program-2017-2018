@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CarQuiz</string>
+    <string name="start">Start</string>
+    <string name="startWarning">Remember! You cannot go back to the previous question, so choose wisely!</string>
+    <string name="your_score">Your score:</string>
+    <string name="carQuiz">Car Quiz</string>
+    <string name="you_re_incredible">You\'re incredible!</string>
+    <string name="question_image">questionImage</string>
+</resources>

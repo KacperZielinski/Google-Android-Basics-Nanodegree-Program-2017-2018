@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.zielinski.kacper.carquiz.ScoreActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+        <TextView
+            android:textColor="#fff"
+            android:fontFamily="sans-serif-light"
+            android:layout_marginBottom="80dp"
+            android:textSize="64sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/your_score" />
+
+        <TextView
+            android:textColor="#fff"
+            android:fontFamily="sans-serif-light"
+            android:textSize="112sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/final_score"/>
+
+        <TextView
+            android:id="@+id/incredible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:layout_marginBottom="40dp"
+            android:textColor="#fff"
+            android:textSize="24sp"
+            android:text="@string/you_re_incredible"/>
+    </LinearLayout>
+</ScrollView>
+

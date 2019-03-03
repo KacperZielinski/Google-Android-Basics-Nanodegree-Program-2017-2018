@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BikeShopCard</string>
+    <string name="name">BEcycle</string>
+    <string name="description">Bike shop with professional service</string>
+    <string name="address">321 Example St, Pittsburgh, PA 11232, United States</string>
+    <string name="telephone_number">512 123 5232</string>
+    <string name="domain">www.BEcycle.net</string>
+    <string name="opening_hours">OPEN Mon-Sat. 11 AM - 9 PM</string>
+</resources>

@@ -1,0 +1,233 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="places">Places</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="monuments">Monuments</string>
+    <string name="parks">Parks</string>
+    <string name="default_description">default description</string>
+    <string name="welcome_in_wroc_aw_tour_guide_app">Wrocław Tour Guide App</string>
+
+    <string name="kebab_str">Sultan Express</string>
+    <string name="setka_str">Setka</string>
+    <string name="soczewka_str">Soczewka</string>
+    <string name="pasibus_str">Pasibus</string>
+    <string name="szczytnicki_str">Szczytnicki Park</string>
+    <string name="staromiejski_str">Staromiejski Park</string>
+    <string name="grabiszynski_str">Grabiszynski Park</string>
+    <string name="poludniowy_str">Poludniowy Park</string>
+    <string name="zoo_str">The Wrocław ZOO</string>
+    <string name="marketplace_str">Market Square</string>
+    <string name="raclawice_panorama_str">Panorama of the Battle of Racławice</string>
+    <string name="multimedia_fountain_str">Multimedia Fountain</string>
+    <string name="chair_str">Chair</string>
+    <string name="needle_str">Needle</string>
+    <string name="naked_swordman_str">The Naked Swordman</string>
+    <string name="anonymous_pedestrians_str">The Anonymous Pedestrians</string>
+
+    <string name="title_activity_kebab_scrolling">Sultan Express</string>
+    <string name="title_activity_setka_scrolling">Setka</string>
+    <string name="title_activity_soczewka_scrolling">Soczewka</string>
+    <string name="title_activity_pasibus_scrolling">Pasibus</string>
+    <string name="title_activity_szczytnicki_scrolling">Szczytnicki Park</string>
+    <string name="title_activity_staromiejski_scrolling">Staromiejski Park</string>
+    <string name="title_activity_grabiszynski_scrolling">Grabiszynski Park</string>
+    <string name="title_activity_poludniowy_scrolling">Poludniowy Park</string>
+    <string name="title_activity_zoo_scrolling">The Wrocław ZOO</string>
+    <string name="title_activity_marketplace_scrolling">Market Square</string>
+    <string name="title_activity_raclawice_panorama_scrolling">Panorama of the Battle of Racławice</string>
+    <string name="title_activity_multimedia_fountain_scrolling">Multimedia Fountain</string>
+    <string name="title_activity_chair_scrolling">Chair</string>
+    <string name="title_activity_needle_scrolling">Needle</string>
+    <string name="title_activity_naked_swordsman_scrolling">The Naked Swordman</string>
+    <string name="title_activity_anonymous_pedestrians_scrolling">The Anonymous Pedestrians</string>
+
+    <string name="anonymous_pedestrians_text">
+        This artwork is called Przejście, which translates as passage or transition, and it’s also known in English as The Anonymous Pedestrians.
+        These 14 figures were crafted by Polish artist Jerry Kalina in December 2005. In addition to being a fascinating piece of public art, it’s significant to Wroclaw because it marks the 24th anniversary of the imposition of martial law in Poland.
+        This was a frightening time when the military arrested ordinary civilians in the middle of the night, many of whom were never seen again. The descending pedestrians are the missing.
+    </string>
+
+    <string name="chair_text">
+        Anonymous Pedestrians Monument- a monument in Wrocław unveiled on the night of 12 to 13 December 2005, consisting of fourteen bronze figures of human life size, standing on both sides of Świdnicka Street in the place where it intersects Piłsudskiego Street.
+        The prototype of the monument was the "Passage" installation by Jerzy Kalina from 1977, set in Warsaw at Świętokrzyska and Mazowiecka Streets. It was created for the needs of a television program. Soon afterwards it was dismantled and found its way to the Wrocław National Museum for 28 years.
+        Plaster figures became a model for a new bronze monument.
+    </string>
+
+    
+    <string name="needle_text">
+        Spire - steel spire in Wrocław, in Szczytnicki Park, near the Centennial Hall (People\'s Hall), erected in 1948 on the occasion of the Exhibition of Regained Territories (WZO); the structure measures 90.3 meters (originally 106 meters) .
+        The 40-tonne tower was designed by prof. Eng. Stanisław Hempel, and the company Mostostal.
+        It is supported on a three-legged base bolted to a bolt with a quarter-meter diameter anchored deep in the ground, while its originally tapering twelve-point body is a girder construction. The last, highest segment was completed supported by a four-centimeter-wide diameter of the tip,
+        a rotating (electrically driven) disk resembling an umbrella with eight mirrors, which, according to designers, illuminated with strong reflectors from the ground, were supposed to give unusual lighting effects at night.
+        The needle was placed on July 3, 1948. Just after setting the Spire,
+        even before the inauguration of the light show (the exhibition was solemnly opened on July 22, the largest National Day of the Rebirth of Poland), a thunderstorm passing over Wrocław on 20 July destroyed the mirror construction by dropping several mirrors on the ground and bending the end of the Spire.
+        Threatening in the event of a fall to the ground, the remains of the system of mirrors were removed along with the final section of the mast only on October 12 - 13, after the exciting Wroclaw reckless climb of Wojciech Niedziałek (student of sociology at the Jagiellonian University) and Zbigniew Jaworowski (medicine student at the Jagiellonian University), members of the high-altitude club.
+        They used the technique of pick-up at the time, unknown at the time, using ropes and loops, which were later commonly used to overcome vertical walls. Climbing to the top of the spire lasted 24 hours and 15 minutes (partly in the rain, mostly in the wind), and disassembly of damaged elements - another six hours.
+        Niedziałek and Jaworowski did not volunteer for this operation and they did not want any remuneration for their work; the city authorities financed them only travel and maintenance during the preparations for the action.
+        In 1964, the spire was placed horizontally for maintenance and shortening its tip. Next maintenance, also in a lying position,
+        made in April 1979, damaging and shortening it (without documentation) by a further 5 meters, up to 90.3 m. Once again, the structure was laid for maintenance on August 23, 2016. During the martial law, a daredevil climbed on the Iglica and suspended the banner of the delegated organization of NSZZ Solidarność.
+        In November 2007, the needle was turned into the highest Christmas tree in Europe. On August 8, 2008, on the opening day of the Olympic Games in Beijing, a group of members of the "Młoda Wrocław" association, in solidarity with the Tibetan people persecuted by the Chinese authorities, suspended the flag of Tibet at the summit of the Spire. April 15, 2018,
+        in order to remind the performance of all the above-mentioned persons, Marcin Banot, a Filipino inhabitant, entered the Spire.
+        Wrocław\'s Spire, next to the Centennial Hall and the Wrocław City Hall, is one of the most characteristic architectural features of the city;
+        its ribbed structure in a more or less stylized form occurs in the trademarks of numerous Wroclaw organizations, and the name Spire appears in the nonetheless numerous names of Wrocław companies.
+    </string>
+
+
+    <string name="naked_swordsman_text">
+        Fountain with Swordsman (German: Fechterbrunnen) - Wroclaw fountain located on the square in front of the University of Wroclaw and being one of its symbols. It was designed by the professor of the Berlin Academy of Fine Arts Hugo Lederer (1871-1940), and it was set up at the University Square on November 26, 1904.
+        In the middle of the University Square, in the middle of a round, shallow pool there is a marble pedestal decorated with sculptures depicting two seated, naked women. The fountain bowl is decorated with four masks, in the mouth of which there are places of water spouting. The top of the fountain is made of bronze, greenish due to patina,
+        a figure of a young, naked man who, standing in a harmonious and calm pose of contrabost, holds in his hands a fashionable sword in the beginning of the century with a bent blade.
+    </string>
+
+
+    <string name="marketplace_text">
+        The Market Square, Wrocław (Polish: Rynek we Wrocławiu, German: Großer Ring zu Breslau) is a medieval market square in Wrocław, now the heart of a pedestrian zone. The square is rectangular with the dimensions 213 by 178 metres (699 ft × 584 ft). It is one of the largest markets in Europe, with the largest two city halls in Poland.
+        The buildings around the square are built according to different styles: the middle part (German: Tritt) of the ring is occupied by a block of buildings consisting of the Old City Hall, the New City Hall as well as numerous citizens\' houses. The market square is an urban ensemble with the two diagonally contiguous areas - the Salt Market and the square in front of St. Elisabeth\'s Church. Eleven streets lead to the market: two to each corner, two narrow lanes and an opened outside square, Kurzy Targ (Chicken Market).
+        The market was founded according to Magdeburg law as early as the rule of Henry I the Bearded between 1214 and 1232. Over time, the patricians\' houses appeared and by the middle of the 14th century they had formed a closed construction with the limits of the plots defined.
+        In the 19th century the square was connected to the tram lines, at first a horse-drawn system, but after 1892 electric.
+        During World War II the market has been damaged, but most of the buildings preserved in good condition and has been restored.
+        Through to the end of the 1970s, cars were able to drive through along an east–west axis. Between 1996 and 2000 the square was resurfaced, while the east side, the last to be accessible to cars, was pedestrianised.
+        There are now 60 numbered plots on the market square, with some buildings occupying several. The limits of the plots often follow lines different from those first laid out since estates were often merged and divided in the late Middle Ages. Each property has a traditional name, usually associated with the coat of arms visible on the facade or related to the history of the house itself, for instance Under the Griffins, Under the Blue Sun and Old Town Hall (tenement house, which collects the city council before the construction of the first town hall; now there is a McDonald).
+    </string>
+
+
+    <string name="zoo_text">
+        The Wrocław Zoological Garden, known simply as the Wrocław Zoo (Polish: Ogród Zoologiczny we Wrocławiu), is a zoo on Wróblewskiego Street in Wrocław, Poland. It is the oldest zoo in Poland, having been opened in 1865 as the Breslau Zoological Garden while the city was part of Prussia. It is also the largest (in terms of the number of animals) zoo in Poland. The zoo covers 33 hectares (82 acres) in downtown Wrocław. It is home to about 10,500 animals representing about 1,132 species (in terms of the number of animal species it is the third largest in the world[3]).
+        The zoo includes among others: Africarium-Oceanarium, Madagascar pavilion, Odrarium, Terrarium, Ropes course Zoolandia, Children\'s Zoo, Rancho, food and drinks outlets.
+        Wrocław Zoo is the most visited zoo in Poland and the fifth most visited zoo in Europe.
+        The zoo is an accredited member of the European Association of Zoos and Aquaria (EAZA) and the World Association of Zoos and Aquariums (WAZA).
+    </string>
+
+
+    <string name="multimedia_fountain_text">
+        The Wrocław Fountain — Wrocław Multimedia Fountain, — Polish: Wrocławska Fontanna, is a multimedia musical fountain and ornamental pond in Wrocław, of western Poland. Fountain runs only during the summer season - from the last weekend of April or the first weekend of May to late October.
+        The Wrocław Fountain is located in the historic Wrocław exhibition ground. It is next to the early modernist Centennial Hall, and encircled within the Wrocław Pergola.
+        Built in 2009, it is currently one of the largest operating fountains in Europe.
+        Multimedia show
+        The 1 hectare (110,000 sq ft) fountain incorporates over 300 jets to create moving-dancing screens of water. They are used, with music and light, by a computerized multimedia program for animated water shows.
+        During the day fountain unimpressed. However are spectacular nightly shows. The fountain is illuminated at night by 800 computer programmed coloured lights.
+        Ice skating
+        When frozen in winter, the Wrocław Fountain is drained and an 4,700 square metres (51,000 sq ft) ice skating rink takes some of its space.
+    </string>
+
+
+    <string name="raclawice_panorama_text">
+        "The Racławice Panorama (Polish: Panorama racławicka) is a monumental (15 × 114 meter) cycloramic painting depicting the Battle of Racławice, "
+        "during the Kościuszko Uprising. It is located in Wrocław, Poland. The painting is one of only a few preserved relics of a genre of 19th-century mass culture, "
+        "and the oldest in Poland. The panorama stands in a circular fashion and, with the viewer in the center, presents different scenes at various viewing angles. "
+        "A special kind of perspective used in the painting and additional effects (lighting, artificial terrain) create a feeling of reality. \n\nThe idea came from the painter Jan Styka in Lviv who invited the renowned battle-painter Wojciech Kossak to participate in the project. "
+        "They were assisted by Ludwik Boller, Tadeusz Popiel, Zygmunt Rozwadowski, Teodor Axentowicz, Włodzimierz Tetmajer, Wincenty Wodzinowski and Michał Sozański. "
+        "The project was conceived as a patriotic commemoration of the 100th anniversary of the victorious Battle of Racławice, a famous episode of the Kościuszko Insurrection, "
+        "a heroic but ultimately failed attempt to defend Polish independence. "
+        "The battle was fought on 4 April 1794 between the insurrectionist force of regulars and peasant volunteers (armed with scythes) under Kościuszko (1746–1817) himself and the Russian army "
+        "commanded by General Alexander Tormasov. For the nation which had lost its independence, the memory of this glorious victory was particularly important. "
+        "The National Exhibition, organized in Lviv in 1894, offered an excellent opportunity to realize Styka’s idea. Canvas, woven to order, was bought in Brussels, "
+        "the specially built rotunda’s iron structure (designed by Ludwik Ramułt) in Vienna. The rotunda, located in Stryjski Park in Lviv, was ready in July 1893. "
+        "The huge panorama painting was executed within 9 months, between August 1893 and May 1894. The official opening was on 5 June 1894. Since the very beginning, "
+        "Panorama of the Battle of Racławice attracted enormous attention and brought crowds of tourists to Lviv. On average 75 000 viewers visited it every year.  "
+        "After World War II, the painting was brought to Wrocław (formerly Breslau in Germany) along with a part of the collection of the Ossoliński Institution. "
+        "As under the Communist regime the subject was considered politically sensitive, the efforts to have the canvas restored and exhibited, "
+        "undertaken by successive Volunteer Committees, were successful only after August 1980. Reopened on 14 June 1985, "
+        "the major attraction of the old Lviv has immediately become the main tourist attraction of Wrocław.  "
+        "Here, contemporary viewers have an opportunity to participate in a unique illusionist spectacle."
+    </string>
+    
+    <string name="kebab_text">
+        "OPEN \nMonday - Friday 12:00 AM - 09:00 PM\n\nMy favorite Kebab in Wroclaw. Friendly owners. Delicious product. "
+    </string>
+    
+    <string name="setka_text">
+        For those who miss the communist system, and those who simply missed it altogether,
+        this Polish Folk Bar recreates the Soviet-era diner experience in the mould of the currently trendy 24hr Polish snack and shot bar.
+        The loud, time-warp interior is plastered floor to ceiling with fine historical images of PRL life,
+        while the menu is a bit more than the typical romp through cold dishes that complement vodka - the ribs are arguably the best in town,
+        and we also recommend the potato pancakes with goulash. The prices here are precious more than pocket change,
+        and Setka is certainly more popular than we ever remember any other aspect of the communist system being in this country.\n\n
+        OPEN \n\nMonday - Friday 10:00 AM - 06:00 AM\n
+    </string>
+
+    <string name="pasibus_text">
+        Delicious, unique burgers. \n\n
+        Monday 11:00 AM – 01:00 AM \n
+        Tuesday 11:00 AM – 01:00 AM \n
+        Wednesday 11:00 AM – 01:00 AM \n
+        Thursday 11:00 AM – 01:00 AM \n
+        Friday 11:00 AM – 03:00 AM \n
+        Saturday 12:00 AM – 03:00 AM \n
+        Sunday 12:00 AM – 01:00 AM \n
+    </string>
+
+    <string name="soczewka_text">
+        Only products of high value matter, the meat is minced, the burger buns are baked and the sauces are prepared on-site. \n\n
+        Monday 11:00 AM - 10:30 PM \n
+        Tuesday	11:00 AM – 11:00 PM \n
+        Wednesday 11:00 AM - 11:00 PM \n
+        Thursday 11:00 AM - 11:00 PM \n
+        Friday	10:30 AM – 12:00 PM \n
+        Saturday 10:30 AM - 12:00 PM \n
+        Sunday	10:30 AM - 10:30 PM \n
+    </string>
+
+    <string name="grabiszynski_park_text">
+        Park Grabiszyński - a park in Wrocław located on the Grabiszyn-Grabiszynek housing estate. The name of the park was given to § 1 point 12 of the Resolution No. LXXI / 454/93 of the City Council of Wrocław of 9 October 1993 on the names of parks and forest areas existing in Wrocław . The Management of the City Green  is responsible for the custody of the Grabiszyński Park,
+        subject to the Department of Architecture and Development of the Municipal Office of Wrocław.
+        The park was created in the area that once was a cemetery - so-called Graveyard Grabiszyński III. Currently, after the former necropolis, small enclaves have remained, containing the quarters buried here:
+        Polish and German children (burials from the thirties and forties of the twentieth century)
+        Italian soldiers from the First World War
+        on the southern edge of the park between the tree stand of the park and the river Ślęza there is the Cemetery of Polish Soldiers in Wrocław.
+        The park has an area of ​​48 ha and consists of two parts: the northern one - on the Avenue of General Józefa Haller, and the southern one - on the river Ślęza. Both parts are separated by a separate (closed) green plant area. They are connected to the east by a walking alley and a belt of trees - Aleja Eugeniusz Romera.
+        In the southern part of the park connects with a green belt located along Grabiszynka and Ślusarska street, stretching all the way to Mała Sobótka.
+        The park is located between:
+        in the west - along Grabiszyńska street (on the opposite side of this street there is the Grabiszyński Cemetery)
+        in the north - the Avenue of General Józef Haller
+        in the east - a housing estate of single-family houses - Grabiszynek.
+        in the south - the area of ​​the park is limited by the Ślęza and Grabiszynka river.
+        Among the attractions of the park are listed:
+        linden alley
+        playgrounds for children
+        gyms
+        the path of health
+        clearing over the river Ślęza
+        mini golf course
+        boulders
+        bicycle routes
+        hill Skarbowców.
+        Within the park, in the southern part, there is a Memorial Monument.
+        The park creates a larger ecosystem along with the river, the Grabiszyński Cemetery, the Italian Soldiers \'Cemetery, with the hill on which the Polish Soldiers\' Cemetery, the allotment gardens and the Oporowski Forest are located.
+    </string>
+
+
+    <string name="poludniowy_park_text">
+        Southern Park - park in Wrocław, located in the southern part of the Borek estate. It is counted among landscape parks with great compositional and dendrological values.
+        Unlike other city parks, it was created from scratch, and not through adaptation of forest areas. In 1877, the landowner of significant areas, including
+        on the southern outskirts of Wrocław, including parts of Borek and nearby Partynic, the Wrocław merchant and philanthropist Julius Schottländer, handed over the park to the city in exchange for connecting Borek to the municipal gas, water supply and sewage networks.
+        On land given to the city until 1892.
+        landscape architect Hugo Richter and botanist Ferdinand Cohn created a landscape park with clearings and a large pond, over which the brewer Georg Haase built a stylish restaurant with a high tower. There is no restaurant today, there is a park with a pond with fountains, above it a scenic Landsberg terrace, and Bender\'s hill with a small gazebo, paths, clearing,
+        well-kept flowerbeds and perennial garden.
+        Since 1995, the park has been entered in the register of monuments. 109 species of plants grow in it; the attractions of the park include interesting dendrological specimens of the marsh cypidaria (Taxodium distichum), American tulip tree (Liriodendron tulipifera), five-leafed peanut (Carya ovata),
+        plane tree (Platanus x hispanica Münchh.) and rare chestnut variety (Aesculus hippocastanum Digitata) in Poland.
+        From September 5, 2004, the park has a statue of Fryderyk Chopin, designed by the professor of the Warsaw Academy of Fine Arts, Jan Kucz. Almost four meters tall, the bronze monument depicts the composer\'s tired consciences,
+        sitting in the sofa and listening to the sounds of music.
+    </string>
+    
+    <string name="staromiejski_park_text">
+        Park of Nicolaus Copernicus is located in the center of Wroclaw, within the Old Town, near Teatralna St. and Teatralny Square. Its current name is valid from January 1, 1994 [1]. Earlier he was called: Zwingerpark, Międzymurzowy Park, Old Town Park, and Hanki Sawicka Park. It has an area of ​​2.75 ha [2] [3] [4].
+        It is managed by the Municipal Green Board.
+        In the place of the present park, the shooting range of the Fractal Brotherhood was located in the 16th century. In the post-war period, on the initiative of the Wrocław Branch of the League for Nature Conservation, it was enlarged and ordered. The park was opened on May 13, 1967 [2] [3] [4]
+        The park is located within the Old Town,
+        on the inner side of the City moat, along which the Old Town Promenade passes ; the moat marks the southern boundary of the park. From the east, the park is limited by Wiązowa Street and the building of the former Leipziger Palace, behind them is the square, on which the monument of Nicolaus Copernicus is located. In the north there is Teatralna street,
+        Behind her stands, among other things, a bathing facility. In the west there is the Theater Square and the street of Corpus Christi. Here, in the immediate vicinity of the park, there is the building of the Puppet Theater. A little further, at ul. Świdnicka, there are: the building of Galeria Na Odwachu and the monument to Bolesław Chrobry.
+        In the park itself, a playground for children was built, and in the south-eastern part there is a monument of Amor on Pegasus; from the side of the Puppet Theater there is a fountain "Boy with a Swan". In 2009-2010, the park was renovated and modernized based on its appearance from 1894.
+        Among others, there was a fence surrounding the park, a summer stage of the theater and a French carousel. The park is open from 10 am to 8 pm, the gates are closed at night. Dogs are forbidden to enter.
+    </string>
+    
+    <string name="szczytnicki_park_text">
+        Park Szczytnicki (German: Scheitniger Park) - one of the largest parks in Wrocław, covering an area of ​​approximately 100 hectares. It is located east of the Old Odra, on the area of ​​the former village of Szczytniki, incorporated into the city in 1868.
+        The park has a landscape character and great compositional and dendrological values ​​(about 400 species of trees and shrubs).
+        In the 16th century, the village of Szczytniki was divided into Nowe and Stare Szczytniki, which in the 17th century turned into suburban housing estates.
+        The forest in the area of ​​Stare Szczytnik was already very popular among Wrocław inhabitants in the mid-18th century. In 1783 Fryderyk Ludwik Hohenlohe, commander of the Wrocław garrison, bought it and founded one of the first parks on the European continent, decorated in the English style.
+    </string>
+
+
+</resources>
